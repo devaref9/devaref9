@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @devaref9
+- 👋 Hi, I’m aref
 - 🌱 I’m currently learning react and redux
-- 📫 How to reach me devaref@gmail.com
+- 📫 How to reach me devaref9@gmail.com
 
 <!---
 devaref9/devaref9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
