@@ -1,5 +1,4 @@
 - 👋 Hi, I’m aref
-- 🌱 I’m currently learning react and redux
 - 📫 How to reach me devaref9@gmail.com
 
 <!---
